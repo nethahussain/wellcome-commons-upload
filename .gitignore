@@ -1,0 +1,21 @@
+# Pywikibot config (contains credentials)
+user-config.py
+user-password.py
+throttle.ctrl
+apicache-py3/
+
+# Upload progress
+upload_progress.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
